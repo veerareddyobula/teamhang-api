@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "teamhangDbUser",
+    "password": "veera@168",
+    "database": "teamhang-db",
+    "host": "166.62.27.131",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "teamhangDbUser",
+    "password": "veera@168",
+    "database": "teamhang-db",
+    "host": "166.62.27.131",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "teamhangDbUser",
+    "password": "veera@168",
+    "database": "teamhang-db",
+    "host": "166.62.27.131",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
